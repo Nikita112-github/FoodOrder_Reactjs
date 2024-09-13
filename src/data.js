@@ -81,18 +81,18 @@ export const sample_foods = [
   export const sample_users = [
     {
       id: 1,
-      name: "Nikita",
-      email: "nikita@gmail.com",
+      name: "John Doe",
+      email: "john@gmail.com",
       password: "12345",
-      address: "Mumbai",
+      address: "Toronto On",
       isAdmin: false,
     },
     {
       id: 2,
-      name: "Thomas",
-      email: "thomas@gmail.com",
+      name: "Jane Doe",
+      email: "jane@gmail.com",
       password: "12345",
-      address: "Chennai",
+      address: "Shanghai",
       isAdmin: true,
     },
   ];
